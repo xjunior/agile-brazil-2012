@@ -1,29 +1,24 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1347017751891" ID="ID_624181624" MODIFIED="1347017817321" TEXT="Praticando o desapego: quando ignorar a d&#xed;vida t&#xe9;cnica">
-<node CREATED="1347709756520" ID="ID_386321343" MODIFIED="1347709769375" POSITION="left" TEXT="palestrantes">
+<node CREATED="1347709756520" FOLDED="true" ID="ID_386321343" MODIFIED="1347816464246" POSITION="left" TEXT="palestrante">
 <node CREATED="1347709775598" ID="ID_630757986" MODIFIED="1347709782554" TEXT="Ivayr Farah Netto">
 <node CREATED="1347709822761" ID="ID_490610127" MODIFIED="1347709826302" TEXT="@nettofarah"/>
-<node CREATED="1347709829360" ID="ID_960376752" MODIFIED="1347709835741" TEXT="github.com/nettofarah"/>
+<node CREATED="1347709829360" ID="ID_960376752" LINK="github.com/nettofarah" MODIFIED="1347816143421" TEXT="github.com/nettofarah"/>
 </node>
-<node CREATED="1347709814777" ID="ID_438497645" MODIFIED="1347709841404" TEXT="da Thoughtworks"/>
+<node CREATED="1347709814777" ID="ID_438497645" LINK="http://www.thoughtworks.com" MODIFIED="1347816154167" TEXT="da Thoughtworks"/>
 </node>
-<node CREATED="1347709798755" ID="ID_296874870" MODIFIED="1347709808527" POSITION="left" TEXT="honey badget doesn&apos;t give a shit"/>
 <node CREATED="1347709789092" ID="ID_1516144261" MODIFIED="1347709810373" POSITION="left" TEXT="relato de projeto que deu certo"/>
-<node CREATED="1347709847990" ID="ID_597382345" MODIFIED="1347709849219" POSITION="left" TEXT="site">
-<node CREATED="1347709849910" ID="ID_421776359" MODIFIED="1347709859346" TEXT="commitlogsfromlastnight">
-<node CREATED="1347709861333" ID="ID_1657478918" MODIFIED="1347709863690" TEXT="ver o que &#xe9; isso"/>
-</node>
-</node>
-<node CREATED="1347709866636" ID="ID_1447510235" MODIFIED="1347709891767" POSITION="left" TEXT="projeto com objetivo de gerenciar o cat&#xe1;logo de produtos e categorias de um dos maiores ecoms do mundo">
+<node CREATED="1347709866636" FOLDED="true" ID="ID_1447510235" MODIFIED="1347816463406" POSITION="left" TEXT="projeto com objetivo grande">
+<node CREATED="1347816457704" ID="ID_1733907338" MODIFIED="1347816459236" TEXT="de gerenciar o cat&#xe1;logo de produtos e categorias de um dos maiores ecoms do mundo"/>
 <node CREATED="1347709896961" ID="ID_1116690794" MODIFIED="1347709901918" TEXT="empresa gigante, forte nos EUA"/>
 </node>
-<node CREATED="1347709905424" ID="ID_169320637" MODIFIED="1347709913421" POSITION="left" TEXT="come&#xe7;ou com inception">
+<node CREATED="1347709905424" FOLDED="true" ID="ID_169320637" MODIFIED="1347816444555" POSITION="left" TEXT="come&#xe7;ou com inception">
 <node CREATED="1347709920734" ID="ID_697764674" MODIFIED="1347709928011" TEXT="quando chega e define o que ser&#xe1; feito no projeto">
 <node CREATED="1347709928509" ID="ID_1367860463" MODIFIED="1347709930739" TEXT="prioridades, etc"/>
 </node>
 </node>
-<node CREATED="1347709934597" ID="ID_386640620" MODIFIED="1347709941746" POSITION="left" TEXT="depois era hora de gerar c&#xf3;digo">
+<node CREATED="1347709934597" FOLDED="true" ID="ID_386640620" MODIFIED="1347816473120" POSITION="left" TEXT="depois era hora de gerar c&#xf3;digo">
 <node CREATED="1347709945268" ID="ID_732009132" MODIFIED="1347709949609" TEXT="c&#xf3;digo j&#xe1; era legado">
 <node CREATED="1347709950435" ID="ID_986929482" MODIFIED="1347709958496" TEXT="558.982 linhas de c&#xf3;digo legado"/>
 <node CREATED="1347709960698" ID="ID_1835747963" MODIFIED="1347709965063" TEXT="684 spring beans">
@@ -34,13 +29,13 @@
 <node CREATED="1347709981920" ID="ID_1077234673" MODIFIED="1347709986493" TEXT="1603 testes com juniit 3"/>
 </node>
 </node>
-<node CREATED="1347710023852" ID="ID_265633735" MODIFIED="1347710025905" POSITION="left" TEXT="tecnologia">
+<node CREATED="1347710023852" FOLDED="true" ID="ID_265633735" MODIFIED="1347816474808" POSITION="left" TEXT="tecnologia">
 <node CREATED="1347710028147" ID="ID_20995679" MODIFIED="1347710029024" TEXT="java"/>
 <node CREATED="1347710029874" ID="ID_1336285119" MODIFIED="1347710031080" TEXT="spring"/>
 <node CREATED="1347710031923" ID="ID_1703103748" MODIFIED="1347710032944" TEXT="ibatis"/>
 <node CREATED="1347710033666" ID="ID_1246102814" MODIFIED="1347710034849" TEXT="oracle"/>
 </node>
-<node CREATED="1347710037890" ID="ID_1737672834" MODIFIED="1347710041063" POSITION="left" TEXT="pontos de integra&#xe7;&#xe3;o">
+<node CREATED="1347710037890" FOLDED="true" ID="ID_1737672834" MODIFIED="1347816478945" POSITION="left" TEXT="pontos de integra&#xe7;&#xe3;o">
 <node CREATED="1347710045209" ID="ID_85341461" MODIFIED="1347710050550" TEXT="websphere">
 <node CREATED="1347710050960" ID="ID_1850861531" MODIFIED="1347710052470" TEXT="40 filas"/>
 </node>
@@ -55,7 +50,7 @@
 <node CREATED="1347710144022" ID="ID_1926069907" MODIFIED="1347710150748" TEXT="quer dizer que n&#xe3;o pode quebrar de jeito nenhum"/>
 </node>
 </node>
-<node CREATED="1347710209191" FOLDED="true" ID="ID_1147359915" MODIFIED="1347710603709" POSITION="right" TEXT="primeira est&#xf3;ria">
+<node CREATED="1347710209191" FOLDED="true" ID="ID_1147359915" MODIFIED="1347816509495" POSITION="right" TEXT="primeira est&#xf3;ria">
 <node CREATED="1347710212159" ID="ID_1098895068" MODIFIED="1347710221933" TEXT="importar produtos de um feed"/>
 <node CREATED="1347710223862" ID="ID_1629470635" MODIFIED="1347710234764" TEXT="classe: com 2272 linhas, 32 depend&#xea;ncias"/>
 <node CREATED="1347710236836" ID="ID_1595642254" MODIFIED="1347710239028" TEXT="como fazer?">
@@ -97,24 +92,29 @@
 <node CREATED="1347710470990" ID="ID_1541464781" MODIFIED="1347710483660" TEXT="fazer da maneira certa n&#xe3;o &#xe9; v&#xe1;lido se n&#xe3;o gerar resultado"/>
 </node>
 </node>
-<node CREATED="1347710489993" ID="ID_876380618" MODIFIED="1347710501722" POSITION="right" TEXT="come&#xe7;aram a questionar se precisava fazer refactoring para tudo">
+<node CREATED="1347816572221" FOLDED="true" ID="ID_1135684957" MODIFIED="1347816650802" POSITION="right" TEXT="novas ideias">
+<node CREATED="1347710489993" ID="ID_876380618" MODIFIED="1347710501722" TEXT="come&#xe7;aram a questionar se precisava fazer refactoring para tudo">
 <node CREATED="1347710502720" ID="ID_198878806" MODIFIED="1347710510248" TEXT="fizeram s&#xf3; no que era necess&#xe1;rio"/>
 </node>
-<node CREATED="1347710511247" ID="ID_1457094416" MODIFIED="1347710517975" POSITION="right" TEXT="n&#xe3;o sofrer por antecipa&#xe7;&#xe3;o"/>
-<node CREATED="1347710518599" ID="ID_1338935057" MODIFIED="1347710528590" POSITION="right" TEXT="programe baseado em fatos, n&#xe3;o em especula&#xe7;&#xe3;o"/>
-<node CREATED="1347710529309" ID="ID_1929017974" MODIFIED="1347710538548" POSITION="right" TEXT="livro: lean startup">
-<node CREATED="1347710539036" ID="ID_310875318" MODIFIED="1347710540039" TEXT="pesquisar"/>
-</node>
-<node CREATED="1347710542707" ID="ID_1242738240" MODIFIED="1347710552294" POSITION="right" TEXT="software &#xe9; incerto por natureza"/>
-<node CREATED="1347710552802" ID="ID_1333512453" MODIFIED="1347710563395" POSITION="right" TEXT="c&#xf3;digo legado &#xe9; c&#xf3;digo que funciona">
+<node CREATED="1347710511247" ID="ID_1457094416" MODIFIED="1347710517975" TEXT="n&#xe3;o sofrer por antecipa&#xe7;&#xe3;o"/>
+<node CREATED="1347710518599" ID="ID_1338935057" MODIFIED="1347710528590" TEXT="programe baseado em fatos, n&#xe3;o em especula&#xe7;&#xe3;o"/>
+<node CREATED="1347710529309" ID="ID_1929017974" LINK="http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=sr_1_1?ie=UTF8&amp;qid=1347816529&amp;sr=8-1&amp;keywords=lean+startup" MODIFIED="1347816599987" TEXT="livro: &quot;The Lean Startup&quot;"/>
+<node CREATED="1347710542707" ID="ID_1242738240" MODIFIED="1347710552294" TEXT="software &#xe9; incerto por natureza"/>
+<node CREATED="1347710552802" ID="ID_1333512453" MODIFIED="1347710563395" TEXT="c&#xf3;digo legado &#xe9; c&#xf3;digo que funciona">
 <node CREATED="1347710563873" ID="ID_1750382662" MODIFIED="1347710567346" TEXT="tem conhecimento impl&#xed;cito"/>
 </node>
-<node CREATED="1347710568321" ID="ID_190294000" MODIFIED="1347710587752" POSITION="right" TEXT="constru&#xe7;&#xe3;o de prot&#xf3;tipos (mvp em n&#xed;vel de funcionalidade)"/>
-<node CREATED="1347710589319" ID="ID_189564077" MODIFIED="1347710600771" POSITION="right" TEXT="jogue a sujeira para debaixo do tapete">
+<node CREATED="1347710568321" ID="ID_190294000" MODIFIED="1347710587752" TEXT="constru&#xe7;&#xe3;o de prot&#xf3;tipos (mvp em n&#xed;vel de funcionalidade)"/>
+<node CREATED="1347710589319" ID="ID_189564077" MODIFIED="1347710600771" TEXT="jogue a sujeira para debaixo do tapete">
 <node CREATED="1347710614829" ID="ID_465030737" MODIFIED="1347710619294" TEXT="hierarquias e classes paralelas"/>
 <node CREATED="1347710626354" ID="ID_1983921936" MODIFIED="1347710630857" TEXT="empacote em fachadas"/>
 </node>
-<node CREATED="1347710154917" FOLDED="true" ID="ID_1837046345" MODIFIED="1347710604893" POSITION="left" TEXT="testes">
+<node CREATED="1347710633770" ID="ID_1455584677" MODIFIED="1347710638525" TEXT="coragem &#xe9; diferente de imprud&#xea;ncias"/>
+<node CREATED="1347710639329" ID="ID_1325528819" MODIFIED="1347710647440" TEXT="reduzir o ciclo de feedback">
+<node CREATED="1347710651000" ID="ID_632508868" MODIFIED="1347710654767" TEXT="melhor teste s&#xe3;o pessoas usando"/>
+<node CREATED="1347710657127" ID="ID_142839324" MODIFIED="1347710659098" TEXT="tem gente usando?"/>
+</node>
+</node>
+<node CREATED="1347710154917" FOLDED="true" ID="ID_1837046345" MODIFIED="1347816482194" POSITION="left" TEXT="testes">
 <node CREATED="1347710157829" ID="ID_138044506" MODIFIED="1347710160611" TEXT="2777 junit tests"/>
 <node CREATED="1347710162332" ID="ID_1345642312" MODIFIED="1347710165810" TEXT="380 funcional tests">
 <node CREATED="1347710167780" ID="ID_1561208912" MODIFIED="1347710173986" TEXT="escritos em ruby 1.8.6 sem bundler"/>
@@ -122,35 +122,32 @@
 <node CREATED="1347710178597" ID="ID_201232207" MODIFIED="1347710181145" TEXT="windows xp"/>
 <node CREATED="1347710182194" ID="ID_1914988089" MODIFIED="1347710185792" TEXT="build de 7 horas"/>
 </node>
-<node CREATED="1347710187746" FOLDED="true" ID="ID_1161807141" MODIFIED="1347710604373" POSITION="left" TEXT="times">
+<node CREATED="1347710187746" FOLDED="true" ID="ID_1161807141" MODIFIED="1347816483698" POSITION="left" TEXT="times">
 <node CREATED="1347710189153" ID="ID_1701501987" MODIFIED="1347710194745" TEXT="4 times (35 devs)"/>
 <node CREATED="1347710197136" ID="ID_1886644172" MODIFIED="1347710202863" TEXT="8 engineers"/>
 <node CREATED="1347710203408" ID="ID_872716627" MODIFIED="1347710205391" TEXT="6 managers"/>
 </node>
-<node CREATED="1347710633770" ID="ID_1455584677" MODIFIED="1347710638525" POSITION="right" TEXT="coragem &#xe9; diferente de imprud&#xea;ncias"/>
-<node CREATED="1347710639329" ID="ID_1325528819" MODIFIED="1347710647440" POSITION="right" TEXT="reduzir o ciclo de feedback">
-<node CREATED="1347710651000" ID="ID_632508868" MODIFIED="1347710654767" TEXT="melhor teste s&#xe3;o pessoas usando"/>
-<node CREATED="1347710657127" ID="ID_142839324" MODIFIED="1347710659098" TEXT="tem gente usando?"/>
-</node>
-<node CREATED="1347710662527" ID="ID_1699662316" MODIFIED="1347710665894" POSITION="right" TEXT="refatora&#xe7;&#xe3;o &#xe9; viciante"/>
-<node CREATED="1347710668606" ID="ID_1287680144" MODIFIED="1347710674085" POSITION="right" TEXT="conhe&#xe7;a suas ferramentas"/>
-<node CREATED="1347710677917" ID="ID_1314656855" MODIFIED="1347710681821" POSITION="right" TEXT="conhe&#xe7;a bem sua ide"/>
-<node CREATED="1347710710033" ID="ID_1952088784" MODIFIED="1347710712377" POSITION="right" TEXT="controle de vers&#xe3;o">
+<node CREATED="1347816621606" FOLDED="true" ID="ID_139691864" MODIFIED="1347816650193" POSITION="right" TEXT="conclus&#xf5;es">
+<node CREATED="1347710662527" ID="ID_1699662316" MODIFIED="1347710665894" TEXT="refatora&#xe7;&#xe3;o &#xe9; viciante"/>
+<node CREATED="1347710668606" ID="ID_1287680144" MODIFIED="1347710674085" TEXT="conhe&#xe7;a suas ferramentas"/>
+<node CREATED="1347710677917" ID="ID_1314656855" MODIFIED="1347710681821" TEXT="conhe&#xe7;a bem sua ide"/>
+<node CREATED="1347710710033" ID="ID_1952088784" MODIFIED="1347710712377" TEXT="controle de vers&#xe3;o">
 <node CREATED="1347710714385" ID="ID_1909406511" MODIFIED="1347710719338" TEXT="git, svn"/>
 <node CREATED="1347710720224" ID="ID_1545318389" MODIFIED="1347710729839" TEXT="grep awk, find, cut, xargs"/>
 </node>
-<node CREATED="1347710746381" ID="ID_1063380625" MODIFIED="1347710755329" POSITION="right" TEXT="refatorar s&#xf3; vale a pena se estiver sendo muito mexido"/>
-<node CREATED="1347710758540" ID="ID_1075316428" MODIFIED="1347710760182" POSITION="right" TEXT="testes e tdd">
+<node CREATED="1347710746381" ID="ID_1063380625" MODIFIED="1347710755329" TEXT="refatorar s&#xf3; vale a pena se estiver sendo muito mexido"/>
+<node CREATED="1347710758540" ID="ID_1075316428" MODIFIED="1347710760182" TEXT="testes e tdd">
 <node CREATED="1347710761028" ID="ID_485611417" MODIFIED="1347710767094" TEXT="tdd &#xe9; ferramenta de design"/>
 <node CREATED="1347710767803" ID="ID_16258147" MODIFIED="1347710777892" TEXT="fazer tdd em c&#xf3;digo velho? n&#xe3;o! o design j&#xe1; existe"/>
 </node>
-<node CREATED="1347710781482" ID="ID_1966444263" MODIFIED="1347710803375" POSITION="right" TEXT="teste que n&#xe3;o funciona &#xe9; pior que n&#xe3;o ter teste. exclua!"/>
-<node CREATED="1347710810678" ID="ID_1346269462" MODIFIED="1347710817119" POSITION="right" TEXT="c&#xf3;digo novo em sistema legado">
+<node CREATED="1347710781482" ID="ID_1966444263" MODIFIED="1347710803375" TEXT="teste que n&#xe3;o funciona &#xe9; pior que n&#xe3;o ter teste. exclua!"/>
+<node CREATED="1347710810678" ID="ID_1346269462" MODIFIED="1347710817119" TEXT="c&#xf3;digo novo em sistema legado">
 <node CREATED="1347710817638" ID="ID_1636083614" MODIFIED="1347710822937" TEXT="cria subsistemas do zero"/>
 </node>
-<node CREATED="1347710847091" ID="ID_455608544" MODIFIED="1347710859035" POSITION="right" TEXT="reclamar dos outros n&#xe3;o vai resolver">
+<node CREATED="1347710847091" ID="ID_455608544" MODIFIED="1347710859035" TEXT="reclamar dos outros n&#xe3;o vai resolver">
 <node CREATED="1347710859489" ID="ID_1144067554" MODIFIED="1347710866063" TEXT="voc&#xea; n&#xe3;o tem tempo para ensinar os outros"/>
 <node CREATED="1347710866904" ID="ID_37561465" MODIFIED="1347710869654" TEXT="ent&#xe3;o, conviva!"/>
+</node>
 </node>
 <node CREATED="1347710873456" ID="ID_1767109846" MODIFIED="1347710881767" POSITION="right" TEXT="em suma: software funcionando &#xe9; melhor do que c&#xf3;digo bonito"/>
 </node>
