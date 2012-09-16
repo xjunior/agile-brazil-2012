@@ -1,0 +1,127 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1346930607415" ID="ID_571547699" MODIFIED="1347669047889" TEXT="Abstract Distractions">
+<node CREATED="1346930707479" ID="ID_1632075411" MODIFIED="1347062387665" POSITION="left" TEXT="Palestrante: Neil Ford"/>
+<node CREATED="1346930730388" ID="ID_1455225048" MODIFIED="1346930738658" POSITION="left" TEXT="rel&#xf3;gio de 10.000 anos">
+<node CREATED="1346930739443" ID="ID_581436225" MODIFIED="1347062471109" TEXT="http://longnow.org"/>
+</node>
+<node CREATED="1347062332498" ID="ID_541837296" MODIFIED="1347796329018" POSITION="right" TEXT="#1 dont mistake abstraction from the real thing">
+<node CREATED="1347062502723" ID="ID_1272714860" MODIFIED="1347796332190" TEXT="emacs - first version lost!"/>
+<node CREATED="1347062514212" ID="ID_189932178" MODIFIED="1347062519518" TEXT="caixa registradora">
+<node CREATED="1347062530694" ID="ID_940943683" MODIFIED="1347062537450" TEXT="para computador em rede sem locking">
+<node CREATED="1347062541185" ID="ID_1491437787" MODIFIED="1347062543558" TEXT="race condition"/>
+<node CREATED="1347062544562" ID="ID_527732547" MODIFIED="1347062556202" TEXT="dead lock"/>
+</node>
+</node>
+<node CREATED="1347062570552" ID="ID_1079152428" MODIFIED="1347062594281" TEXT="enetronic folio is a abstraction of paper folio"/>
+</node>
+<node CREATED="1347062615784" FOLDED="true" ID="ID_960920277" MODIFIED="1347669049945" POSITION="right" TEXT="#2 understand one level below your usual abstraction">
+<node CREATED="1347062642928" ID="ID_799379377" MODIFIED="1347062648273" TEXT="para conseguir entender"/>
+<node CREATED="1347062907586" ID="ID_699360031" MODIFIED="1347062922766" TEXT="CRC: Class responsability collaboration cards">
+<node CREATED="1347062924332" ID="ID_705615986" MODIFIED="1347062926565" TEXT="foi um desastre"/>
+<node CREATED="1347062931672" ID="ID_1312305859" MODIFIED="1347062940082" TEXT="n&#xe3;o preciso das cartas, e sim da utilidade"/>
+<node CREATED="1347062941263" ID="ID_698957624" MODIFIED="1347062964587" TEXT="white board + digital photo -&gt; para wiki"/>
+</node>
+<node CREATED="1347062975432" ID="ID_846306923" MODIFIED="1347062999417" TEXT="exemplo de organiza&#xe7;&#xe3;o:">
+<node CREATED="1347062979994" ID="ID_962459315" MODIFIED="1347062982929" TEXT="docs">
+<node CREATED="1347062983543" ID="ID_557669682" MODIFIED="1347062986337" TEXT="current"/>
+<node CREATED="1347062987326" ID="ID_1713045654" MODIFIED="1347062989091" TEXT="archeology"/>
+</node>
+</node>
+</node>
+<node CREATED="1347062652335" FOLDED="true" ID="ID_898309341" MODIFIED="1347669048929" POSITION="right" TEXT="#3 onde internalized, abstractions are hard to shake off">
+<node CREATED="1347668069763" ID="ID_99540566" MODIFIED="1347668103018" TEXT="exemplo do qwerty do computador copiado da m&#xe1;quina de escrever">
+<node CREATED="1347668094399" ID="ID_80176291" MODIFIED="1347668101932" TEXT="imagina aprender a digitar novamente!"/>
+</node>
+<node CREATED="1347063015637" ID="ID_695508770" MODIFIED="1347063028220" TEXT="story card to test: danger!">
+<node CREATED="1347063030831" ID="ID_622590021" MODIFIED="1347063041925" TEXT="&#xe0;s vezes a est&#xf3;ria j&#xe1; existe; o teste deve ser alterado"/>
+<node CREATED="1347063046174" ID="ID_947500035" MODIFIED="1347063058320" TEXT="&quot;test journeys, not stories&quot;"/>
+</node>
+<node CREATED="1347063234652" ID="ID_1546058744" MODIFIED="1347063238492" TEXT="sobre integra&#xe7;&#xe3;o cont&#xed;nua">
+<node COLOR="#990000" CREATED="1347063082731" ID="ID_3630142" MODIFIED="1347063245410" TEXT="livro: Continuous Delivery">
+<node CREATED="1347063143220" ID="ID_636609367" MODIFIED="1347063153035" TEXT="continuous integration after isolation">
+<node CREATED="1347063156176" ID="ID_1550696393" MODIFIED="1347063158580" TEXT="n&#xe3;o funciona"/>
+<node CREATED="1347063159959" ID="ID_1497500553" MODIFIED="1347063170756" TEXT="xp = integrate early and often"/>
+<node CREATED="1347063172072" ID="ID_484993634" MODIFIED="1347063188283" TEXT="if you do it all the time, it&apos;s not painful"/>
+</node>
+<node CREATED="1347063193445" ID="ID_843173854" MODIFIED="1347063203883" TEXT="Continuous Deploy">
+<node CREATED="1347063204840" ID="ID_1894404648" MODIFIED="1347063208664" TEXT="Continuous Delivery">
+<node CREATED="1347063212882" ID="ID_118675549" MODIFIED="1347063220294" TEXT="always in a deployment state"/>
+<node CREATED="1347063221454" ID="ID_514059870" MODIFIED="1347063227228" TEXT="business decision, not technical"/>
+</node>
+</node>
+<node CREATED="1347063259846" ID="ID_601577337" MODIFIED="1347063269840" TEXT="commit stage | unit test">
+<node CREATED="1347063271655" ID="ID_893987943" MODIFIED="1347063276634" TEXT="acceptance test stage">
+<node CREATED="1347063277404" ID="ID_1008196286" MODIFIED="1347063283381" TEXT="user acceptance testing">
+<node CREATED="1347063289369" ID="ID_9601525" MODIFIED="1347063292507" TEXT="production"/>
+</node>
+<node CREATED="1347063284900" ID="ID_1917488177" MODIFIED="1347063287741" TEXT="performance testing">
+<node CREATED="1347063294119" ID="ID_862246684" MODIFIED="1347063297043" TEXT="production"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1347063342694" ID="ID_1687964086" MODIFIED="1347668219435" TEXT="if it hurts, do it more often">
+<node CREATED="1347668219860" ID="ID_1995035844" MODIFIED="1347668222002" TEXT="do XP"/>
+</node>
+</node>
+</node>
+<node CREATED="1347062692185" FOLDED="true" ID="ID_874496487" MODIFIED="1347669028644" POSITION="right" TEXT="#4 abstractions are both walls and prisions">
+<node CREATED="1347062718838" ID="ID_661650196" MODIFIED="1347062742146" TEXT="exemplo de pastas do outlook x tags do gmail"/>
+<node CREATED="1347062748860" ID="ID_1447491115" MODIFIED="1347062753105" TEXT="hierarquias nem sempre se aplicam"/>
+<node CREATED="1347062758633" ID="ID_641791080" MODIFIED="1347062765827" TEXT="exemplo do &#xed;cone de &quot;salvar&quot;"/>
+<node CREATED="1347062857915" ID="ID_23312754" MODIFIED="1347062876590" TEXT="IPad: primeiro computador em 30 anos sem teclado, mouse e fiesystem"/>
+</node>
+<node CREATED="1347062774546" FOLDED="true" ID="ID_184238355" MODIFIED="1347669029156" POSITION="right" TEXT="#5 don&apos;t name things that exposes">
+<node CREATED="1347062799654" ID="ID_661677836" MODIFIED="1347062815802" TEXT="yout grandmother don&apos;t want the file system"/>
+<node COLOR="#990000" CREATED="1347062819848" ID="ID_319400799" MODIFIED="1347063073848" TEXT="livro: The Human Interface">
+<node CREATED="1347062833407" ID="ID_831606388" MODIFIED="1347062848323" TEXT="users don&apos;t want file system; is a developer convenience"/>
+</node>
+</node>
+<node CREATED="1347668228986" ID="ID_645681386" MODIFIED="1347668239712" POSITION="right" TEXT="#6 bring the pain forward"/>
+<node CREATED="1347668250687" FOLDED="true" ID="ID_716985630" MODIFIED="1347669026997" POSITION="right" TEXT="#7 if want improve agile, find missing points and improve them">
+<node CREATED="1347668313085" ID="ID_719488241" MODIFIED="1347668317699" TEXT="tente automatizar tudo o que for poss&#xed;vel"/>
+<node CREATED="1347668371364" ID="ID_1385518691" MODIFIED="1347668375255" TEXT="danger">
+<node CREATED="1347668375716" ID="ID_1432560437" MODIFIED="1347668378019" TEXT="non intiutive">
+<node CREATED="1347668378620" ID="ID_1312233594" MODIFIED="1347668393097" TEXT="exemplo do galileo e das bolas de golfe e boliche caindo"/>
+<node CREATED="1347668840955" ID="ID_273514452" MODIFIED="1347668844187" TEXT="como pair programming">
+<node CREATED="1347668844739" ID="ID_985493068" MODIFIED="1347668848982" TEXT="quanto teste colocar?">
+<node CREATED="1347668849418" ID="ID_1074435216" MODIFIED="1347668871687" TEXT="experimento qye indica que 15% nvoos bugs nos novos x experientes"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1347668404895" FOLDED="true" ID="ID_1209783114" MODIFIED="1347669051465" POSITION="right" TEXT="#8 demonstration triumps discussion">
+<node CREATED="1347668436146" ID="ID_1755995129" MODIFIED="1347668446106" TEXT="exemplo do galileo e do heliocentrismo"/>
+<node CREATED="1347668457871" ID="ID_56601745" MODIFIED="1347668586283" TEXT="maven &#xe9; associado &#xe0; igreja"/>
+<node CREATED="1347668586859" ID="ID_839076245" MODIFIED="1347668604249" TEXT="maven &#xe9; ferramenta de build que faz muito mais"/>
+<node CREATED="1347668607744" ID="ID_561127430" MODIFIED="1347668610495" TEXT="&#xe9; um tool ,apenas">
+<node CREATED="1347668617390" ID="ID_572054542" MODIFIED="1347668621046" TEXT="composable">
+<node CREATED="1347668632116" ID="ID_438129601" MODIFIED="1347668633836" TEXT="bash">
+<node CREATED="1347668640995" ID="ID_1034389727" MODIFIED="1347668641994" TEXT="emacs"/>
+</node>
+<node CREATED="1347668661288" ID="ID_114790343" MODIFIED="1347668663297" TEXT="eventual power &gt;"/>
+</node>
+<node CREATED="1347668621942" ID="ID_984432101" MODIFIED="1347668623869" TEXT="contextual">
+<node CREATED="1347668635627" ID="ID_1646436087" MODIFIED="1347668640139" TEXT="power shell">
+<node CREATED="1347668642906" ID="ID_954079179" MODIFIED="1347668643874" TEXT="eclipse"/>
+</node>
+<node CREATED="1347668651201" ID="ID_1156153125" MODIFIED="1347668655504" TEXT="building blocks are big"/>
+</node>
+<node CREATED="1347668908833" ID="ID_1199660835" MODIFIED="1347668911035" TEXT="how to choose">
+<node CREATED="1347668911841" ID="ID_1530171302" MODIFIED="1347668929689" TEXT="maven gives so much of the box"/>
+<node CREATED="1347668930566" ID="ID_437515613" MODIFIED="1347668934622" TEXT="start with easiest"/>
+</node>
+</node>
+<node CREATED="1347668669422" ID="ID_632707385" MODIFIED="1347668676278" TEXT="Dietzleig law">
+<node CREATED="1347668680189" ID="ID_1896923789" MODIFIED="1347668687150" TEXT="pesquisar: 80% 10% 10%"/>
+<node CREATED="1347668687964" ID="ID_662882783" MODIFIED="1347668700634" TEXT="users always want 100% of what they want"/>
+</node>
+</node>
+<node CREATED="1347668942564" FOLDED="true" ID="ID_523640445" MODIFIED="1347669052473" POSITION="right" TEXT="#9 know when to step backwards to go forward">
+<node CREATED="1347668961625" ID="ID_904287753" MODIFIED="1347669044942" TEXT="rebuild for a better tool for the problem"/>
+</node>
+<node CREATED="1347668986725" ID="ID_327664132" MODIFIED="1347668999820" POSITION="right" TEXT="#10 Dont be distracted by yout attractions"/>
+</node>
+</map>
