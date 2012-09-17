@@ -1,11 +1,12 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1346930937082" ID="ID_1200810437" MODIFIED="1346939589284" TEXT="Otimiza&#xe7;&#xe3;o prematura &#xe9; a raiz de todos os problemas. C&#xf3;digo limpo &#xe9; otimiza&#xe7;&#xe3;o?">
-<node CREATED="1347810525685" FOLDED="true" ID="ID_10401620" MODIFIED="1347810638482" POSITION="left" TEXT="palestrante">
+<node CREATED="1347810525685" FOLDED="true" ID="ID_10401620" MODIFIED="1347924962508" POSITION="left" TEXT="palestrante">
 <node CREATED="1346939397683" ID="ID_1508847582" MODIFIED="1347810532153" TEXT="Lucas Cavalcanti">
 <node CREATED="1346939591037" ID="ID_645638628" MODIFIED="1347810521087" TEXT="instrutor da Caelum"/>
 <node CREATED="1346939407651" ID="ID_1122750423" MODIFIED="1346939427669" TEXT="twitter: @lucascs"/>
 <node CREATED="1346939411902" ID="ID_249532960" LINK="http://lucas.cavalcanti.me" MODIFIED="1347810517092" TEXT="http://lucas.cavalcanti.me"/>
+<node CREATED="1347924943772" ID="ID_109548212" LINK="http://t.co/aNGL3Pmo" MODIFIED="1347924949704" TEXT="apresenta&#xe7;&#xe3;o no Slideshare"/>
 </node>
 </node>
 <node CREATED="1346940164259" FOLDED="true" ID="ID_1488991235" MODIFIED="1347810717278" POSITION="right" TEXT="todas essas praticas tem um valor, mas tudo tem um custo">
