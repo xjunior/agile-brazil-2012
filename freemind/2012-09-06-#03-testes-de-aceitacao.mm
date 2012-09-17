@@ -1,11 +1,11 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1346931017255" ID="ID_1882010965" MODIFIED="1346931064929" TEXT="Testes de aceita&#xe7;&#xe3;o automaizados evidenciam rastreabilidade, cobertura e desempenho do software">
-<node CREATED="1346942738501" FOLDED="true" ID="ID_1589004909" MODIFIED="1347810871683" POSITION="left" TEXT="palestrante: Francisco Edmundo de Andrade">
+<node CREATED="1346942738501" FOLDED="true" ID="ID_1589004909" MODIFIED="1347847839726" POSITION="left" TEXT="palestrante: Francisco Edmundo de Andrade">
 <node CREATED="1346945912744" ID="ID_1113610958" MODIFIED="1346945918580" TEXT="edmundo@lia.ufc.br"/>
 <node CREATED="1346945922127" ID="ID_727075009" MODIFIED="1346945929618" TEXT="@edmundoandrade"/>
 </node>
-<node CREATED="1346942820267" FOLDED="true" ID="ID_1872702266" MODIFIED="1347811440631" POSITION="left" TEXT="Testes de aceita&#xe7;&#xe3;o &#xe9; uma excelente ferramenta para integrar">
+<node CREATED="1346942820267" FOLDED="true" ID="ID_1872702266" MODIFIED="1347847992361" POSITION="left" TEXT="Testes de aceita&#xe7;&#xe3;o &#xe9; uma excelente ferramenta para integrar">
 <node CREATED="1346942831148" ID="ID_1272155920" MODIFIED="1346942833084" TEXT="pessoas">
 <node CREATED="1346942833605" ID="ID_427174825" MODIFIED="1346942835869" TEXT="cliente"/>
 </node>
@@ -13,20 +13,20 @@
 <node CREATED="1346942840344" ID="ID_1432401322" MODIFIED="1347810864298" TEXT="que vai resolver os problemas de neg&#xf3;cio"/>
 </node>
 </node>
-<node CREATED="1346942870436" FOLDED="true" ID="ID_1667416417" MODIFIED="1347811209098" POSITION="right" TEXT="Testes de aceita&#xe7;&#xe3;o">
-<node CREATED="1346943901357" ID="ID_413325046" MODIFIED="1346943903199" TEXT="significados">
+<node CREATED="1346942870436" FOLDED="true" ID="ID_1667416417" MODIFIED="1347847987905" POSITION="right" TEXT="Testes de aceita&#xe7;&#xe3;o">
+<node CREATED="1346943901357" FOLDED="true" ID="ID_413325046" MODIFIED="1347847985913" TEXT="outros nomes para testes de aceita&#xe7;&#xe3;o">
 <node CREATED="1346943876919" ID="ID_1174003378" MODIFIED="1346943880369" TEXT="Especifica&#xe7;&#xe3;o por exemplos"/>
 <node CREATED="1346943881295" ID="ID_269393748" MODIFIED="1346943886117" TEXT="Requisito execut&#xe1;vel"/>
 <node CREATED="1346943888338" ID="ID_772019071" MODIFIED="1346943890025" TEXT="Story test"/>
 <node CREATED="1346943893042" ID="ID_511184720" MODIFIED="1346943897318" TEXT="teste funcional do sistema"/>
 <node CREATED="1346943898151" ID="ID_1384008466" MODIFIED="1346943899572" TEXT="teste do cliente"/>
 </node>
-<node CREATED="1346943970651" ID="ID_230856684" MODIFIED="1346943974413" TEXT="sobre Lasse Koskela">
+<node CREATED="1346943970651" FOLDED="true" ID="ID_230856684" MODIFIED="1347847984993" TEXT="sobre Lasse Koskela">
 <node CREATED="1346943964404" ID="ID_759460094" MODIFIED="1346943967713" TEXT="@lassekoskela"/>
-<node CREATED="1346943914156" ID="ID_431043349" LINK="http://www.amazon.com/Test-Driven-Acceptance-Java-Developers/dp/1932394850/ref=pd_sxp_f_pt" MODIFIED="1347811173102" TEXT="Livro de 2008 - Acceptance TDD Explained"/>
+<node CREATED="1346943914156" ID="ID_431043349" LINK="http://www.amazon.com/Test-Driven-Acceptance-Java-Developers/dp/1932394850/ref=pd_sxp_f_pt" MODIFIED="1347847982621" TEXT="Livro de 2007 - Acceptance TDD Explained"/>
 <node CREATED="1346943978959" ID="ID_1726063657" MODIFIED="1346944014667" TEXT="&quot;para cada user story, como o sistema lida com certas situa&#xe7;&#xf5;es, entradas e sa&#xed;das&quot;"/>
 </node>
-<node CREATED="1346944036477" ID="ID_873275283" MODIFIED="1346944038788" TEXT="caracter&#xed;sticas">
+<node CREATED="1346944036477" FOLDED="true" ID="ID_873275283" MODIFIED="1347847986513" TEXT="caracter&#xed;sticas">
 <node CREATED="1346944039605" ID="ID_593613235" MODIFIED="1346944045473" TEXT="deve ser propriedade do cliente"/>
 <node CREATED="1346944046648" ID="ID_1871065857" MODIFIED="1346944057976" TEXT="deve ser escrito conjuntamente pelo cliente, desenvolvedor e testador"/>
 <node CREATED="1346944059027" ID="ID_745162828" MODIFIED="1346944070479" TEXT="deve tratar &quot;o que&quot;, nao o &quot;como&quot;"/>
@@ -37,7 +37,7 @@
 <node CREATED="1346944197711" ID="ID_1362170746" MODIFIED="1347811194880" TEXT="s&#xe3;o complementares. voce trabalha sempre com os dois"/>
 </node>
 </node>
-<node CREATED="1346944193164" ID="ID_1267926486" MODIFIED="1346944196208" TEXT="exemplos">
+<node CREATED="1346944193164" FOLDED="true" ID="ID_1267926486" MODIFIED="1347847987257" TEXT="exemplos">
 <node CREATED="1346944211424" ID="ID_1308872820" MODIFIED="1346944287647" TEXT="[Story] T&#xe9;cnico de suporte visualiza hist&#xf3;rico do cliente na tela ao receber liga&#xe7;&#xe3;o">
 <node CREATED="1346944224348" ID="ID_1667312374" MODIFIED="1346944263516" TEXT="[test] numero de assinante valido"/>
 <node CREATED="1346944234013" ID="ID_1633789514" MODIFIED="1346944256633" TEXT="[test] numero de assinante inexistente"/>
@@ -133,7 +133,7 @@
 <node CREATED="1346945871825" ID="ID_966523962" MODIFIED="1346945881094" TEXT="relatorio de desempenho dos testes"/>
 </node>
 </node>
-<node CREATED="1346942861599" FOLDED="true" ID="ID_1440782833" MODIFIED="1347810937752" POSITION="left" TEXT="Rastreabilidade">
+<node CREATED="1346942861599" FOLDED="true" ID="ID_1440782833" MODIFIED="1347847990329" POSITION="left" TEXT="Rastreabilidade">
 <node CREATED="1346942958764" ID="ID_1756025835" MODIFIED="1346942966441" TEXT="com aprendizado v&#xea;m estrat&#xe9;gia"/>
 <node CREATED="1346942991305" ID="ID_541054515" MODIFIED="1346942997485" TEXT="rastreabilidade negocial">
 <node CREATED="1346943019479" ID="ID_47871207" MODIFIED="1346943023147" TEXT="prop&#xf3;sito">
@@ -188,14 +188,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1346943499133" FOLDED="true" ID="ID_1174034389" MODIFIED="1347811095621" POSITION="left" TEXT="sobre testes automatizados">
-<node CREATED="1346943510373" ID="ID_1862179672" LINK="http://www.google.com.br/url?sa=t&amp;rct=j&amp;q=Grigori+Melnik+Robert+Martin&amp;source=web&amp;cd=1&amp;ved=0CCMQFjAA&amp;url=http%3A%2F%2Fwww.gmelnik.com%2Fpapers%2FIEEE_Software_Moebius_GMelnik_RMartin.pdf&amp;ei=l_ZVUP7eD4WK8QT0t4GYBQ&amp;usg=AFQjCNFCu0dMbdd2ADTh-IHi8RiU0B0BfA&amp;cad=rja" MODIFIED="1347811071026" TEXT="menciona artigo de Robert Martin e Grigori Melnik, 2009">
+<node CREATED="1346943499133" FOLDED="true" ID="ID_1174034389" MODIFIED="1347847990937" POSITION="left" TEXT="sobre testes automatizados">
+<node CREATED="1346943510373" ID="ID_1862179672" LINK="http://www.google.com.br/url?sa=t&amp;rct=j&amp;q=Grigori+Melnik+Robert+Martin&amp;source=web&amp;cd=1&amp;ved=0CCMQFjAA&amp;url=http%3A%2F%2Fwww.gmelnik.com%2Fpapers%2FIEEE_Software_Moebius_GMelnik_RMartin.pdf&amp;ei=l_ZVUP7eD4WK8QT0t4GYBQ&amp;usg=AFQjCNFCu0dMbdd2ADTh-IHi8RiU0B0BfA&amp;cad=rja" MODIFIED="1347847859375" TEXT="menciona artigo de Robert Martin e Grigori Melnik, 2008">
 <node CREATED="1347811045319" ID="ID_555208175" MODIFIED="1347811064540" TEXT="&quot;Test and Requirements, Requirements and Tests: A Mobius Strip&quot;"/>
 <node CREATED="1346943549747" ID="ID_1468406736" MODIFIED="1346943558751" TEXT="testes e requisitos s&#xe3;o complementares">
 <node CREATED="1346943569684" ID="ID_1612519907" MODIFIED="1346943573774" TEXT="podem ser consideradas uma coisa s&#xf3;"/>
 </node>
 </node>
-<node CREATED="1346943810752" ID="ID_469485460" MODIFIED="1347811091022" TEXT="Cita Djikstra, para ilustrar o ponto de que a documenta&#xe7;&#xe3;o n&#xe3;o compila; o teste execut&#xe1;vel &#xe9; mais confi&#xe1;vel"/>
+<node CREATED="1346943810752" ID="ID_469485460" MODIFIED="1347847941056" TEXT="Cita Djikstra, para ilustrar o ponto de que a documenta&#xe7;&#xe3;o n&#xe3;o compila; o requisito execut&#xe1;vel &#xe9;&#xa;mais f&#xe1;cil de verificar e atualizar"/>
 </node>
 </node>
 </map>
