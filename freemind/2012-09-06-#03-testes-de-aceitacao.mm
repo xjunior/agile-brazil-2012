@@ -1,9 +1,10 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1346931017255" ID="ID_1882010965" MODIFIED="1346931064929" TEXT="Testes de aceita&#xe7;&#xe3;o automaizados evidenciam rastreabilidade, cobertura e desempenho do software">
-<node CREATED="1346942738501" FOLDED="true" ID="ID_1589004909" MODIFIED="1347847839726" POSITION="left" TEXT="palestrante: Francisco Edmundo de Andrade">
+<node CREATED="1346942738501" FOLDED="true" ID="ID_1589004909" MODIFIED="1347848517906" POSITION="left" TEXT="palestrante: Francisco Edmundo de Andrade">
 <node CREATED="1346945912744" ID="ID_1113610958" MODIFIED="1346945918580" TEXT="edmundo@lia.ufc.br"/>
 <node CREATED="1346945922127" ID="ID_727075009" MODIFIED="1346945929618" TEXT="@edmundoandrade"/>
+<node CREATED="1347848491444" ID="ID_900694816" LINK="http://www.slideshare.net/edmundoandrade/ " MODIFIED="1347848515883" TEXT="palestra dispon&#xed;vel no slideshare"/>
 </node>
 <node CREATED="1346942820267" FOLDED="true" ID="ID_1872702266" MODIFIED="1347847992361" POSITION="left" TEXT="Testes de aceita&#xe7;&#xe3;o &#xe9; uma excelente ferramenta para integrar">
 <node CREATED="1346942831148" ID="ID_1272155920" MODIFIED="1346942833084" TEXT="pessoas">
